@@ -9,6 +9,8 @@ public class Hello {
         // ready to go back to living room
         // movie on yhe phone
         //  movie on yhe phone 20 min
+
+        // another final 1- minutes before going bac to living room
     }
 
 
